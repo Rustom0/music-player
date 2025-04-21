@@ -17,7 +17,7 @@ A lightweight and responsive Media Player built using **HTML**, **CSS**, and **J
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/rustom0/media-player.git
+   git clone https://github.com/rustom0/music-player.git
    ```
 
 2. **Open the Project**
